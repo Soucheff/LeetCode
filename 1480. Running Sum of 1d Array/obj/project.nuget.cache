@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HojvjCWyrqqftOlAVc2DIpFwWCMAXUcr4R43qBi7WxKuVxpEffK6c2XHnFpZjqWvsikXGAJ3X/cfu9ns/atdFw==",
+  "dgSpecHash": "fsQrfTFaArxLAO2w7ca/BP3ivZwR7LQ2K1++g1jXkGKUhAbQyMaUiMlhUrMwneW5m88LWZgt5YWOK8zMlMbU7A==",
   "success": true,
-  "projectFilePath": "c:\\Dev\\C#\\LeetCode\\1480. Running Sum of 1d Array\\1480. Running Sum of 1d Array.csproj",
+  "projectFilePath": "C:\\Dev\\C#\\LeetCode\\1480. Running Sum of 1d Array\\1480. Running Sum of 1d Array.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

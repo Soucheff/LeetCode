@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\C#\\LeetCode\\1480. Running Sum of 1d Array\\1480. Running Sum of 1d Array.csproj": {}
+    "C:\\Dev\\C#\\LeetCode\\1342. Number of Steps to Reduce a Number to Zero\\1342. Number of Steps to Reduce a Number to Zero.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\C#\\LeetCode\\1480. Running Sum of 1d Array\\1480. Running Sum of 1d Array.csproj": {
+    "C:\\Dev\\C#\\LeetCode\\1342. Number of Steps to Reduce a Number to Zero\\1342. Number of Steps to Reduce a Number to Zero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\C#\\LeetCode\\1480. Running Sum of 1d Array\\1480. Running Sum of 1d Array.csproj",
-        "projectName": "1480. Running Sum of 1d Array",
-        "projectPath": "C:\\Dev\\C#\\LeetCode\\1480. Running Sum of 1d Array\\1480. Running Sum of 1d Array.csproj",
+        "projectUniqueName": "C:\\Dev\\C#\\LeetCode\\1342. Number of Steps to Reduce a Number to Zero\\1342. Number of Steps to Reduce a Number to Zero.csproj",
+        "projectName": "1342. Number of Steps to Reduce a Number to Zero",
+        "projectPath": "C:\\Dev\\C#\\LeetCode\\1342. Number of Steps to Reduce a Number to Zero\\1342. Number of Steps to Reduce a Number to Zero.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\C#\\LeetCode\\1480. Running Sum of 1d Array\\obj\\",
+        "outputPath": "C:\\Dev\\C#\\LeetCode\\1342. Number of Steps to Reduce a Number to Zero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
